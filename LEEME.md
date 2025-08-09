@@ -1,6 +1,8 @@
 # CrispOS
 
-![donut gif](./sysicons/readme.md.icons/CrispOSDonut.gif)
+<p align="center">
+  <a href="./sysicons/readme.md.icons/CrispOSDonut.gif"><img alt="Dona" src="./sysicons/readme.md.icons/CrispOSDonut.gif"></a>
+</p>
 
 CrispOS es un sistema operativo con objetos de código abierto. Puedes crear una aplicación registrándola en la aplicación "XML-AppRun CrispOS".
 

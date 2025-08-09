@@ -1,6 +1,9 @@
 # CrispOS
 
-![donut gif](./sysicons/readme.md.icons/CrispOSDonut.gif)
+<p align="center">
+  <a href="./sysicons/readme.md.icons/CrispOSDonut.gif"><img alt="Donut" src="./sysicons/readme.md.icons/CrispOSDonut.gif"></a>
+</p>
+
 
 CrispOS it's a operative with Open-Source objects. You can create an application registrating to "XML-AppRun CrispOS" application
 
