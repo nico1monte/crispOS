@@ -4,8 +4,8 @@
 
 CrispOS es un sistema operativo con objetos de código abierto. Puedes crear una aplicación registrándola en la aplicación "XML-AppRun CrispOS".
 
-CrispOS es un sistema con muchas posibilidades de código abierto y código abierto. Además, tiene una interfaz sencilla para desarrolladores y usuarios comunes.
+CrispOS es un sistema con muchas posibilidades de código abierto y código. Además, tiene una interfaz sencilla para desarrolladores y usuarios comunes.
 
 ```
-NUEVAS INFORMACIÓN PARA DESARROLLADORES EN LAS NUEVAS ACTUALIZACIONES 😁
+NUEVAS FUNCIONES PARA DESARROLLADORES EN LAS NUEVAS ACTUALIZACIONES 😁
 ```
